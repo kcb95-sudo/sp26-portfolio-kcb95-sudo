@@ -2,7 +2,7 @@
 layout: project
 title: A Nutcracker Problem 
 description: Analysis and Design of a Nutcracker
-image/Diagram: nutcracker FBD.jpg
+image/Diagram: kcb95-sudo/Nutcracker-Diagram-/nutcracker FBD.jpg 
 
 
 
