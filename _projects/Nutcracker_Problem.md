@@ -2,10 +2,10 @@
 layout: project
 title: A Nutcracker Problem 
 description: Analysis and Design of a Nutcracker
-image/Diagram: kcb95-sudo/Nutcracker-Diagram-/nutcracker FBD.jpg 
+image/Diagram: /images/nutcracker-FBD.jpg
 
 
-
+![Nutcracker Free Body Diagram](/images/nutcracker-FBD.jpg)
 Find: Dimensions of Nutcracker, Size of Nut, Average Force to crack nut, Mechanical Advantage 
 
 Input Parameters: 
