@@ -1,9 +1,9 @@
 ---
 layout: project
-title: ANutcracker Problem 
+title: A Nutcracker Problem 
 description: Analysis and Design of a Nutcracker
-image/Diagram: https://github.com/Cornell-MAE-UG/portfolio-sp26-sp26-portfolio-portolios-1/compare/main...Cornell-MAE-UG:sp26-portfolio-kcb95-sudo:main#diff-2db5b2e5ca016056f3b642c64064da7e561b0479333bb32b902316bbe856eef2
----
+image/Diagram: nutcracker FBD.jpg
+
 
 
 Find: Dimensions of Nutcracker, Size of Nut, Average Force to crack nut, Mechanical Advantage 
