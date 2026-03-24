@@ -8,16 +8,18 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Kaya Beckles 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Kaya Beckles 
+description              : Kaya Beckles - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: light 
+title: Nutcracker Problem
+description: Analysis and Design of a Nutcracker
 
 sass:
   style: compressed
