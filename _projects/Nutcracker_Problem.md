@@ -1,6 +1,6 @@
 ---
-layout: project
-title: A Nutcracker Problem 
+title: Nutcracker Problem
+layout: project 
 ---
 description: Analysis and Design of a Nutcracker
 
