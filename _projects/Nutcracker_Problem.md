@@ -1,6 +1,7 @@
 ---
 layout: project
 title: A Nutcracker Problem 
+---
 description: Analysis and Design of a Nutcracker
 
 ![Nutcracker Free Body Diagram](/assets/nutcracker-FBD.jpg)
