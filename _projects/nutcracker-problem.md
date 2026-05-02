@@ -1,5 +1,5 @@
 ---
-title: Nutcracker Problem
+title: Nutcracker Problem + Deflection
 layout: project 
 description: Analysis and Design of a Nutcracker
 ---
@@ -31,6 +31,35 @@ Calculations:
     Linear Actuator: PA-MC2, Stroke: 2.8 in, F: 9-56 lbf
 
 Reactions: In order to have the most optimum MA, the PA-MC2 linear actuator best meets our calculated F_in. 
+
+
+Deflection of a Nutcracker 
+
+Input Parameters: 
+- F_nut = 244.7 lbf
+- Location_nut = 2.6 in
+- F_grip = 45.25lbf
+- Location_grip = 4.6 in
+- M_R
+- Location_M = 6.1 in
+- L = 6.1 in
+
+Find: 
+- y_max in handles
+- I when v_max = 0.02L
+
+Plan: 
+a. FBD of nut cracker 
+b. Max deflection @ F_nut, F_grip, and M_R
+c. 0.02L = y_max 
+
+Assumptions: 
+1. The nutcracker is made of Aluminum (E = 3.77e10^6 psi)
+2. Same forces as the original nutcracker problem
+3. Each part of the nutcracker features a fixed-free end structure
+
+Solution: 
+  
 
 
 
