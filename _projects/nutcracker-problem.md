@@ -36,7 +36,7 @@ Reactions: In order to have the most optimum MA, the PA-MC2 linear actuator best
 
 Deflection of a Nutcracker 
 
-
+![Nutracker updated FBD](/assets/nutcracker-design-updated.jpg)
 
 Input Parameters: 
 - F_nut = 244.7 lbf
