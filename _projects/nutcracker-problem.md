@@ -45,12 +45,12 @@ Input Parameters:
 - L = 6.1 in
 
 Find: 
-- y_max in handles
-- I when v_max = 0.02L
+- Location of the largest y_max in the nutcracker handle
+- I and cross-sectional area when v_max = 0.02L  
 
 Plan: 
 a. FBD of nut cracker 
-b. Max deflection @ F_nut, F_grip, and M_R
+b. Max deflection @ F_nut, F_grip, and M_R using equations from appendix E (1 and 3)
 c. 0.02L = y_max 
 
 Assumptions: 
@@ -58,8 +58,24 @@ Assumptions:
 2. Same forces as the original nutcracker problem
 3. Each part of the nutcracker features a fixed-free end structure
 
-Solution: 
-  
+Calculations: 
+1. Deflection of F_nut: fixed-free structure with an applied force (Equation 1 of Appendix E)
+    y_max = (244.7)((2.6^3)-(3)(6.1)(2.6^2))/6EI = -4328.4/EI
+2. Deflection of F_grip: fixed-free structure with an applied force (Equation 1 of Appendix E)
+    y_max = (-45.25)((4.6^3)-(3)(6.1)(2.6^2))/6EI = 198.9/EI
+3. Deflection of M_r: fixed free design with an applied moment (Equation 3 of Appendix E)
+    y_max = -((455.2)(6.1^2))/2EI = -8469/EI
+
+Results: The location of the biggest deflection is at 6.1 in, the end of the nutcracker, due to M_r causing the largest deflection value. 
+
+4. 0.002L = 0.122 in = y_max
+   0.122 = (8469)/((3.77e6)(I)
+   I = 54.31 in^4
+   Cross-section: circular -> I = ((pi)(r^4))/4
+   r = 2.88 in
+
+Results: Equating 2% of the length of the nutcracker handle and our max deflection found in part a, the I value to satisfy this inequality is 54.31 in^4. I decided to use a circular cross-section with a radius of 2.88 in to satisfy the inequality (see image 2 for details). 
+   
 
 
 
