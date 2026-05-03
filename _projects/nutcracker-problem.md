@@ -4,7 +4,7 @@ layout: project
 description: Analysis and Design of a Nutcracker
 ---
 
-![Image 1](/assets/nutcracker-FBD.jpg)
+{{ '/assets/images/nutcracker-FBD.jpg' | relative_url }}
 
 Find: Dimensions of Nutcracker, Size of Nut, Average Force to crack nut, Mechanical Advantage 
 
