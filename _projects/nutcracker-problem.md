@@ -4,7 +4,7 @@ layout: project
 description: Analysis and Design of a Nutcracker
 ---
 
-![Nutcracker Free Body Diagram](/assets/nutcracker-FBD.jpg)
+![Image 1](/assets/nutcracker-FBD.jpg)
 
 Find: Dimensions of Nutcracker, Size of Nut, Average Force to crack nut, Mechanical Advantage 
 
@@ -36,7 +36,7 @@ Reactions: In order to have the most optimum MA, the PA-MC2 linear actuator best
 
 Deflection of a Nutcracker 
 
-![Nutracker updated FBD](/assets/nutcracker-design-updated.jpg)
+![Image 2](/assets/nutcracker-design-updated2.jpg)
 
 Input Parameters: 
 - F_nut = 244.7 lbf
