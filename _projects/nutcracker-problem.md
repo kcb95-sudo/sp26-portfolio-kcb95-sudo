@@ -2,7 +2,6 @@
 title: Nutcracker Problem + Deflection
 layout: project 
 description: Analysis and Design of a Nutcracker
-image: /assets/nutcracker-FBD.jpg
 image: /assets/nutcracker-design-updated2.jpg
 ---
 
